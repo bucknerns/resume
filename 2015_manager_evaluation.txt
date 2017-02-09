@@ -1,0 +1,32 @@
+Manager Evaluation
+Comment
+Technical Ability:
+Nathan is a Top Notch Technical SDT and Key Player in my team. He is excellent in all aspects of Software Development be it design, development, code reviews, code analysis, framework development etc. He is excellent in understanding and solving problems at a very fast pace and he has helped in the developmental efforts of Capacity Dashboard, Nova Design Refactor. He has practically trained almost all the SDTs that joined rackspace in 2015 and through 2016 through his onboarding class. He is the core developer for syntribos, the security tool written using opencafe concepts and this framework got accepted into openstack community.
+Ownership:
+When something is given to nathan, What ever it may be he owns it and makes sure he delivers it quick and with highest quality. I feel very comfortable approaching Nathan as a manager with any challenging work and still feel good that it gets done no matter what. He has done it many times and very proud of this.
+TeamPlayer:
+Nathan is a very good team player and he continues to be. He works well with peers and teams that he interacts with. He is always on top list to help other be it in design, development or via code reviews.
+Feedback Received:
+"I think Nathan is a great developer and I wish we had more of him to take advantage of his skills. Nathan is extremely talented and is highly capable."
+"Nathan has come a long way in his approach to dealing with others.  His code is very high quality and he has done an excellent job building the CAFE on boarding."
+"I go to Nathan for help whenever I need a sanity check on a direction I'm going with a problem, or if I'm stuck on something outside of my usual experience. “
+"Nathan is always willing to take time to help people with a problem that they are having. He has a wide array of knowledge and if he doesn't know about the topic directly at least knows a very good starting point or person to talk to.”
+"Nathan is always thinking how to improve the solution at hand and during demoing something.”
+
+Manager Evaluation
+
+Strong: The Racker consistently delivers a high level of performance, meeting all expectations and exceeding many
+They demonstrate especially high Racker values, providing examples for their peers and other Rackers (Champion)
+
+- Consistently surpasses performance expectations delivering high quality work on time or ahead of schedule
+- Demonstrates exceptional domain/functional knowledge
+- Treats others with respect and embraces differences
+- Acts as a peer leader, mentoring and coaching others
+- Demonstrates initiative handling business outside of their scope, when needed
+- Demonstrates a clear sense of ownership and accountability within areas of responsibility
+- Proactive problem solver, identifies obstacles and opportunities that may impact the success of plans or activities and course corrects as needed
+- Steps up to lead when a leader/owner is required for a particular situation or vacuum
+- Establishes internal networks and collaborates with others to deliver the best results
+- Customer focused exceeding expectations of internal and external customers
+Comment
+Nathan is a very strong SDT in my Tools Team and he is well rounded in all the aspects of software development life cycle. He is very adaptive of situations and jumping in where ever help is needed and he has done many times. Nathan made significant  improvements in personality development and has grown into a well rounded Senior SDT on whom i can rely a lot. As a manager i am proud of Nathan's work and his work ethic.
