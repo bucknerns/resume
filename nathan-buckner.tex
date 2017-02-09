@@ -1,0 +1,84 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage[pagesetup]{tucv}
+
+% Footer
+%\fancyfoot[C]{Nathan Buckner - Page \thepage}
+
+\begin{document}
+
+% Header
+\begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
+\textbf{\Large Nathan Buckner}  & (210) 396-8151 \\
+ & bucknerns@gmail.com \\
+ & https://github.com/bucknerns \\
+\end{tabular*}
+
+% Objective
+\resheading{Objective}
+\begin{itemize}
+    \item[]
+        \resentrysinglecol{Detail-oriented, highly motivated Software Engineer with a passion for learning and making an impact. Exceptional design, debuging, testing, problem solving and critical thinking skills. Searching for a company that I can be an $\int$ part of culturally and intellectually.}
+\end{itemize}
+
+% Education
+\resheading{Education}
+\begin{itemize}
+% Education Item Format
+    % \item[]
+    %     \resschool[Notes about school]{School Name}{Location}
+    %         \resdegree[degree notes]{Degree}{Major}{Date}
+    %         \ressubentry{Certificate, etc.}{Date}
+    \item[]
+        \resschool{University of Texas}{San\,Antonio}
+            \resdegree[3.62 GPA, 3.85 Major GPA\newline Fall 2006 Honor Roll, Spring \& Fall 2007 Deans List]{Bachelor's}{Computer Science}{2006-2010}
+\end{itemize}
+
+% Employment
+\resheading{Employment}
+\begin{itemize}
+% Employment Format
+    % \item[]
+    %     \resemployer[Brief description of employer]{Employer name}{Location}
+    %         \resjob[Description of job]{Job title}{Start}{End}
+    \item[]
+        \resemployer{Rackspace - the \#1 managed cloud company}{San\,Antonio}
+            \resjob[Building clients to communicate with migration products, creating complex deployments, and working validating network data flow.]{Software Developer in Test IV - Managed AWS Migration}{Sep 2016}{Feb 2017}
+            \resjob[Testing rackconnects ability to connect dedicated devices to the Rackspace cloud via private customer networks]{Software Developer in Test IV - Rackconnect}{May 2016}{Aug 2016}
+            \resjob[Tool Architecture - Flask Capacity dashboard, Test metrics api\newline Billing Testing Automation, Design, and Data Generation\newline Onboarding QE new hires]{Software Developer in Test III - Tools Team}{July 2013}{May 2016}
+            \resjob[Threat Models, Code reviews, infrastucture/web app pentesting]{Security Developer in Test II - Application Security Team}{Apr 2012}{July 2013}
+        \resemployer{General Dynamics Mission Systems}{Phoenix}
+            \resjob[Embedded radio development. Kernel, posix and application layers.\newline RIPv2 Development]{Software Engineer - JTRS Engineering}{May 2010}{Apr 2012}
+\end{itemize}
+
+% Conferences
+\resheading{Conferences}
+\begin{itemize}
+    % \item[] \resconference{Lascon}{Speaker (2015)}
+    %     \ressubconference{OpenStack API Security Testing Automation in Action}{Speaker (2014)}
+    \item[] \resconference{Lascon}{Speaker (2014, 2015)}
+        \ressubconference{OpenStack API Security Testing Automation in Action}{}
+        \ressubconference{Automate Security Tests for APIs with Syntribos}{}
+\end{itemize}
+
+
+\resheading{Skills}
+\begin{itemize}
+    \item []
+    \resdesc{Langages:}{python, c, c++, java, javascript, shell, puns}
+    \resdesc{Embedded:}{pyvisa, Green Hills, National Insturments, I2C, Kernel, Posix}
+    \resdesc{Databases:}{redis, mysql, sqlalchemy, mongo, oracle}
+    \resdesc{Web:}{flask, falcon, angularjs, python-requests, rpc}
+    \resdesc{Cloud/Virtualization:}{Rackspace Cloud, AWS, Openstack, KVM, lxc, docker}
+    \resdesc{Tools:}{tox, jenkins, burpsuite, wireshark, git, gerrit, github, unittest, opencafe, ssh}
+    \resdesc{Networking:}{network+, ccna, asa, routing protocols, scapy}
+    \resdesc{Military:}{Advanced Tactical Network Training Course, Instructor Training Course, Primary Leadership Development Course, Signal Support System Specialist Course 101-31U10}
+\end{itemize}
+
+%\footnotetext[1]{Denotes a peer-reviewed publication}
+% \resheading{Publications and Presentations}
+% \begin{itemize}
+% % This item provides article title (bolded) and rest-of-citation fields.
+% %\item[] \resbib{``Article title''\footnotemark[1]}{Paper at Conference, Year. Authors.}
+% \end{itemize}
+
+\end{document}
