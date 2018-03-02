@@ -1,17 +1,37 @@
 You bring a lot of strengths to your work at Amazon. What stands out for me is: 
-Your superpower is your strong technical knowledge coupled with great judgment and instincts. You push for high standards in code and design and ensure that all stakeholders follow them. You tirelessly coach and train your peers to increase the quality and reliability of the entire team's automation output. Thank you Nathan.
+Your superpower is your strong technical knowledge coupled with great judgment and instincts. You push for high standards in
+code and design and ensure that all stakeholders follow them. You tirelessly coach and train your peers to increase the
+quality and reliability of the entire team's automation output. Thank you Nathan.
 
 Here are the super powers your peers provided: 
-Nathan has incredible bias for action and technical skills. He is able to leverage these two strengths to create a test framework that is used across our org and even cross-org. He is always willing to help others and provide information on how something can be implemented.
-Nathan has very good vision and he brings in tremendous experience around developing extensible framework. He has developed Burn framework which will simplify our code compared to Mozart. This is be very helpful in developing new tests and sustaining tests. Another super power is that he has in depth knowledge in Python and has readiness to share his knowledge.
+Nathan has incredible bias for action and technical skills. He is able to leverage these two strengths to create a test
+framework that is used across our org and even cross-org. He is always willing to help others and provide information on how
+something can be implemented.
+
+Nathan has very good vision and he brings in tremendous experience around developing extensible framework. He has developed
+Burn framework which will simplify our code compared to Mozart. This is be very helpful in developing new tests and sustaining
+tests. Another super power is that he has in depth knowledge in Python and has readiness to share his knowledge.
+
 Nathan is a best Framework developer.
 He is a technical leader to guide , mentor and train the resources on burn framework.
 He provides new ideas to simplify test solutions and development.
 He is flexible on work timing based on the needs.
 Sets high standard for coding and review
-Nathan is a great teacher! Every interaction with him leaves me with some new learnings and inspires me to code His efforts in coming up with an effective test framework are commendable. The Burn sessions were helpful in coming to speed with the new framework. It was a great learning, not just about Burn but coding language, style & technique.
+Nathan is a great teacher! Every interaction with him leaves me with some new learnings and inspires me to code His efforts in
+coming up with an effective test framework are commendable. The Burn sessions were helpful in coming to speed with the new
+framework. It was a great learning, not just about Burn but coding language, style & technique.
+
 Nathan is good at Invent and Simplifying. He has a great sense of Ownership and Earned Trust.
-Nathan is rockstar in bringing news ideas and game changer scope for organization support in FTVQA base. Some of his outstanding examples are solving pain point in testing paradigms with limited and legacy code support with an introduction of versatile and dimensional testing scope framework called "burn". Other superpower includes helping others as mentor, easy to approach and process refine.
-Nathan knows everything! He has so many cool suggestions that make life easier and the technical ability to make them. Since Nathan started pretty much our whole team process has changed, and for the better.
-Nathan's superpowers are knowledge and good ole' fashioned "never say die" attitude. Nathan is like a walking, talking encyclopedia, and he has the determination to complete even the most arduous tasks. In his short time at Amazon, he has become our de-facto "go-to" guy for difficult and challenging problems, and he has pushed the limits of our automation capabilities.
-Python Master.  Nathan's deep knowledge of Python enables him to quickly write Python code that addresses requested needs when it comes to the Burn Framework.  Nathan is also an excellent resource for anything Python related.
+
+Nathan is rockstar in bringing news ideas and game changer scope for organization support in FTVQA base. Some of his
+outstanding examples are solving pain point in testing paradigms with limited and legacy code support with an introduction of
+versatile and dimensional testing scope framework called "burn". Other superpower includes helping others as mentor, easy to
+approach and process refine.
+Nathan knows everything! He has so many cool suggestions that make life easier and the technical ability to make them. 
+Since Nathan started pretty much our whole team process has changed, and for the better.
+
+Nathan's superpowers are knowledge and good ole' fashioned "never say die" attitude. Nathan is like a walking, talking
+encyclopedia, and he has the determination to complete even the most arduous tasks. In his short time at Amazon, he has become
+our de-facto "go-to" guy for difficult and challenging problems, and he has pushed the limits of our automation capabilities.
+Python Master.  Nathan's deep knowledge of Python enables him to quickly write Python code that addresses requested needs when
+it comes to the Burn Framework.  Nathan is also an excellent resource for anything Python related.
