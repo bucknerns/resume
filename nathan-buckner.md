@@ -26,7 +26,7 @@
 * Designed page object model navigation library for FireTV testing
 * Conducted training effort for local and overseas employees in person
 
-**Rackspace** - Software Developer/Security Developer in Test II-IV - **May 2017 - Jun 2018**
+**Rackspace** - Software Developer/Security Developer in Test II-IV - **Mar 2012 - Feb 2017**
 
 * Built clients and behaviors to facilitate Rackspace to AWS migrations
 * Developed complex deployments and test scenarios for migrations
