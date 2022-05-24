@@ -37,11 +37,21 @@
 * Billing Testing Automation
 * Threat Models, Code reviews, infrastructure/web app pen-testing
 
-**General Dynamics Mission Systems** - Senior Engineer - **May 2010 - Jun 2012**
+**General Dynamics Mission Systems** - Senior Engineer - **May 2009 - Jun 2012**
 
 * Embedded radio development
 * Kernel, posix and application layers
 * RIPV2 development
+* Secret Clearance
+* With internship in 2009
+
+**US Army** - Signal Support System Specialist - **May 2000 - Jun 2006**
+
+* Secret Clearance, comsec custodian
+* Cisco Router configurations and maintenance
+* Networking certs - Network+, CCNA
+* Windows System Administration
+* Tactical System Administration (Force XXI Battle Command Brigade and Below)
 
 ### Technical Specifications
 
