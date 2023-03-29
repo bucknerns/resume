@@ -14,16 +14,16 @@
 
 **Roku** - Senior Software Engineer - **Jun 2018 - Current**
 
-* Worked as a technical lead for the team
-* Wrote internal event collection, payment provideo event collection services
-* Created EMR pipelines for transforming and publish service events to data warehouse
+* Technical lead for the payments team
+* Wrote payment provider event collection service
+* Created AWS EMR ETL pipelines for transforming and shipping billing data to data warehouse
 * Migrated PCI data to new payment provider
-* Wrote, packaged and setup CI pipelines for testing framework
+* Wrote, packaged and setup testing framework and CI pipelines
 
 **Amazon Lab126** - Senior Software Developer L5,L6(**promoted**) - **May 2017 - Jun 2018**
 
 * Designed and implemented a test framework to replace organically grown FireTV test framework
-* Designed page object model navigation library for FireTV testing
+* Designed page object model navigation using uiautomator dumps(Android/FireTV)
 * Conducted training effort for local and overseas employees in person
 
 **Rackspace** - Software Developer/Security Developer in Test II-IV - **Mar 2012 - Feb 2017**
@@ -37,7 +37,7 @@
 * Billing Testing Automation
 * Threat Models, Code reviews, infrastructure/web app pen-testing
 
-**General Dynamics Mission Systems** - Senior Engineer - **May 2009 - Jun 2012**
+**General Dynamics Mission Systems** - Software Engineer - **May 2009 - Jun 2012**
 
 * Embedded radio development
 * Kernel, posix and application layers
@@ -51,7 +51,7 @@
 * Cisco Router configurations and maintenance
 * Networking certs - Network+, CCNA
 * Windows System Administration
-* Tactical System Administration (Force XXI Battle Command Brigade and Below)
+* Tactical System Administration (Linux)
 
 ### Technical Specifications
 
@@ -63,7 +63,7 @@
 
 **Cloud/Virtualization** - AWS, Openstack, Docker, Terraform, ECS, EC2
 
-**CI/CD+Tools** - Gitlabci, Jenkins, Git, Tox, Unittest, Checkstyle, Junit, Gerrit, Gradle, Pip
+**CI/CD+Tools** - Gitlabci, Jenkins, Python/Java packaging, Git, Unittest/Junit, Code style gate jobs
 
 ### Education
 
