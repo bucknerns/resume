@@ -19,10 +19,10 @@
 **Roku Inc.** - Senior Software Engineer
 **Jun 2018 - Jul 2021**
 
-* Wrote payment provider event collection service
+* Designed and implemented payment provider event collection service
 * Created AWS EMR ETL pipelines for transforming and shipping billing data to data warehouse
 * Migrated PCI data to new payment provider
-* Wrote, packaged and setup testing framework and CI pipelines
+* Designed, implemented, packaged and setup testing framework and CI pipelines
 
 **Amazon Lab126** - Senior Software Developer L5,L6
 **May 2017 - Jun 2018**
